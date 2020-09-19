@@ -1,0 +1,6 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-25 10:32:41 --> Severity: error --> Exception: Too few arguments to function Invoice::index(), 0 passed in C:\xampp\htdocs\tempucheck-crm\system\core\CodeIgniter.php on line 532 and exactly 2 expected C:\xampp\htdocs\tempucheck-crm\application\controllers\Invoice.php 12
+ERROR - 2020-07-25 10:36:42 --> Severity: error --> Exception: Too few arguments to function Invoice::save_invoice_data(), 0 passed in C:\xampp\htdocs\tempucheck-crm\system\core\CodeIgniter.php on line 532 and exactly 6 expected C:\xampp\htdocs\tempucheck-crm\application\controllers\Invoice.php 81
+ERROR - 2020-07-25 11:06:07 --> Severity: error --> Exception: Too few arguments to function Invoice::save_invoice_data(), 0 passed in C:\xampp\htdocs\tempucheck-crm\system\core\CodeIgniter.php on line 532 and exactly 7 expected C:\xampp\htdocs\tempucheck-crm\application\controllers\Invoice.php 81
+ERROR - 2020-07-25 11:12:41 --> Severity: error --> Exception: Too few arguments to function Invoice::save_invoice_data(), 0 passed in C:\xampp\htdocs\tempucheck-crm\system\core\CodeIgniter.php on line 532 and exactly 7 expected C:\xampp\htdocs\tempucheck-crm\application\controllers\Invoice.php 81
